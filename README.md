@@ -15,6 +15,9 @@
   <a href="https://leetcode.com/u/Hunaysubhash_Chennu/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+    <a href="https://chennuhunaysubhash.github.io/my-portfolio1/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </p>
 
 ---
