@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hunaysubhash chennu" target="blank">
+  <a href="https://www.linkedin.com/in/hunaysubhash-chennu-b65560202" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/@hunaysubhash97" target="blank">
+  <a href="https://www.hackerrank.com/profile/hunaysubhash97" target="blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://www.leetcode.com/hunay subhash chennu" target="blank">
+  <a href="https://leetcode.com/u/Hunaysubhash_Chennu/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Node.js**, **MongoDB**, and **Express.js**
 - 💬 Ask me about **Java**, **Spring Boot**, **React**, **Angular**, **JavaScript**
 - 📫 How to reach me: **hunaysubhash97@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://chennuhunaysubhash.github.io/my-portfolio1/ChennuHunaySubhash97.pdf)
+- 📄 Know about my experiences: <a href="https://chennuhunaysubhash.github.io/my-portfolio1/ChennuHunaySubhash97.pdf" target="blank">Click Me</a>
 
 ---
 
