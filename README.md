@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **Node.js**, **MongoDB**, and **Express.js**
 - 💬 Ask me about **Java**, **Spring Boot**, **React**, **Angular**, **JavaScript**
-- 📫 How to reach me: **hunaysubhash97@gmail.com**
+- 📫 How to reach me: **hunaysubhashchennu@gmail.com**
 - 📄 Know about my experiences:  
   <a href="https://github.com/Chennuhunaysubhash/All_Certification/blob/main/Hunay_Subhash_Resume_3.6_yoe.pdf" target="blank">Click Me</a>
 
